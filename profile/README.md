@@ -20,7 +20,7 @@ To help you navigate your career journey, we offer a variety of resources:
 
 - **Career Guides & Toolkits:** Access comprehensive guides on resumes, cover letters, networking, interviews, and more.
 - **Job & Internship Listings:** Explore opportunities available exclusively to Amherst College students and alumni.
-- **Event Calendar:** Stay up-to-date with our workshops, career fairs, and networking events.
+- **Event Calendar:** Stay up-to-date with our workshops, career fairs, and networking events posted at our [All Events page](https://careers.amherst.edu/events/?ctag%5B%5D=loeb-center-events)
 - **Alumni Network:** Connect with a global network of Amherst College alumni willing to offer career advice and support.
 
 For detailed information, visit our [website](https://careers.amherst.edu/) or contact us directly at [careers@amherst.edu](mailto:careers@amherst.edu).
