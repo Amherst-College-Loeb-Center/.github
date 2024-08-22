@@ -1,6 +1,6 @@
 # 👋 Welcome to the Loeb Center's GitHub Page for Tech + Quant!
 
-## 🙋‍♀️ About This Page
+## 🌟 About This Page
 
 This GitHub page is designed specifically for Amherst College students and alumni interested in the Tech and Quant Finance industries. The purpose of this page is twofold: 
 
@@ -8,7 +8,7 @@ This GitHub page is designed specifically for Amherst College students and alumn
 
 2. **Practice Platform:** This page also serves as a space for you to practice using GitHub, contributing to open-source projects, and collaborating with others. By engaging with this repository, you'll not only enhance your technical skills but also contribute to a growing knowledge base that benefits the entire Amherst community.
 
-## 🌈 How to Get Involved
+## 🚀 How to Get Involved
 
 We believe in the power of community and collaboration! Here’s how you can get involved:
 
@@ -16,7 +16,7 @@ We believe in the power of community and collaboration! Here’s how you can get
 - **Employers & Industry Professionals:** Partner with us by providing resources, offering insights, or mentoring students. Your expertise can greatly benefit those aspiring to enter these fields.
 - **Community Members:** Whether you're a seasoned professional or just starting out, your contributions to this page can help others learn and grow. Share your knowledge, suggest resources, or help answer questions.
 
-## 👩‍💻 Useful Resources
+## 💼 Useful Resources
 
 To help you succeed, we've gathered a variety of resources:
 
@@ -32,7 +32,7 @@ For more information about the Loeb Center and our broader offerings, visit our 
 - We’re committed to helping students not just find jobs, but build meaningful, long-term careers.
 - Each year, we see an increasing number of Amherst students entering top tech companies and finance firms.
 
-## 🧙 Mighty Things Await
+## 🔮 Mighty Things Await
 
 With the power of collaboration, knowledge-sharing, and a commitment to student success, this page is here to help you achieve your career goals in Tech and Quant Finance. Let's explore, practice, and thrive together!
 
