@@ -30,7 +30,7 @@ For more information about the Loeb Center and our broader offerings, visit our 
 
 - Our team is passionate about technology and finance, often discussing the latest trends over coffee.
 - We’re committed to helping students not just find jobs, but build meaningful, long-term careers.
-- Each year, we see an increasing number of Amherst students entering top tech companies and finance firms.
+- Each year, we see a number of Amherst students entering top tech companies and finance firms.
 
 ## 🔮 Mighty Things Await
 
