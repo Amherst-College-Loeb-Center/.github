@@ -1,4 +1,4 @@
-# 👋 Welcome to the Loeb Center for Career Exploration & Planning!
+# 👋 Welcome to the Loeb Center's GitHub Page for Tech + Quant!
 
 ## 🙋‍♀️ About This Page
 
