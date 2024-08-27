@@ -4,7 +4,7 @@
 
 This GitHub page is designed specifically for Amherst College students and alumni interested in the Tech and Quant Finance industries. The purpose of this page is twofold: 
 
-1. **Resource Hub:** We aim to compile and share valuable resources, guides, and tools that can help you navigate your career in these competitive fields. Whether you're preparing for interviews, building your GitHub portfolio, or exploring the intricacies of quant finance, you'll find resources here to support your journey.
+1. **Resource Hub:** We aim to compile and share valuable resources, guides, and tools that can help you navigate your career in these competitive fields. Whether you're preparing for interviews, building your GitHub portfolio, or exploring the intricacies of tech and quant finance, you'll find resources here to support your journey.
 
 2. **Practice Platform:** This page also serves as a space for you to practice using GitHub, contributing to open-source projects, and collaborating with others. By engaging with this repository, you'll not only enhance your technical skills but also contribute to a growing knowledge base that benefits the entire Amherst community.
 
